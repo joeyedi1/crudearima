@@ -4,5 +4,4 @@ matplotlib
 statsmodels
 pmdarima
 yfinance
-jupyter
 scipy
